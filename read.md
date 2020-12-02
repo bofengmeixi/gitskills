@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 2020.12.02
+=======
+2020.12.1
+>>>>>>> refs/remotes/origin/master
 add in feature
 add in master
 add in dev
@@ -8,4 +12,3 @@ add in dev again
 new add xixi
 add merge no ff in dev
 add merge in issue-101
-
