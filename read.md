@@ -1,8 +1,5 @@
 2020.12.07 test4
 2020.12.02
-=======
-2020.12.1
->>>>>>> refs/remotes/origin/master
 add in feature
 add in master
 add in dev
